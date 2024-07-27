@@ -1,0 +1,123 @@
+.container{
+  display:flex;
+  
+  
+}
+.container1{
+    display: flex;
+}
+
+.container img{
+    width: 600px;
+    height: 500px;
+}
+.container1 img{
+    width: 500px;
+    height: 400px;
+}
+.price{
+    font-size: 30px;
+}
+    .box{
+        height: 300px;
+        width: 350px;
+        border-style: none;
+        border-radius: 25px;
+        margin-inline: 70px;
+        margin-top: 60px;
+        background-image: url("/LunarCall_1_800x.webp");
+        background-size: cover;
+    }
+    .box1{
+        height: 300px;
+        width: 350px;
+        border-style: none;
+        border-radius: 25px;
+        margin-inline: 70px;
+        margin-top: 60px;
+        background-image: url("/71Q8czKqSIL._AC_UF1000\,1000_QL80_.jpg");
+        
+        background-size: 300px;
+        background-repeat: no-repeat;
+    }
+    .box2{
+        height: 300px;
+        width: 350px;
+        border-style: none;
+        border-radius: 25px;
+        margin-inline: 70px;
+        margin-top: 60px;
+        background-image: url("/71khlADY21L._SL1500_.jpg");
+        
+        background-size: 400px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .box3{
+        height: 300px;
+        width: 350px;
+        border-style: none;
+        border-radius: 25px;
+        margin-inline: 70px;
+        margin-top: 60px;
+        background-image: url("/64ccb2559d908f42222b598a-hp-pavilion-13-3-fhd-intel-core-i3.jpg");
+        
+        background-size: 400px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .box4{
+        height: 300px;
+        width: 350px;
+        border-style: none;
+        border-radius: 25px;
+        margin-inline: 70px;
+        margin-top: 60px;
+        background-image: url("/oneplus.webp");
+        
+        background-size: 400px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .box5{
+        height: 300px;
+        width: 350px;
+        border-style: none;
+        border-radius: 25px;
+        margin-inline: 70px;
+        margin-top: 60px;
+        background-image: url("/phone\ 2.jpg");
+        
+        background-size: 400px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .container-fluid{
+    
+        color: white;
+        background-color: rgb(19, 20, 63);
+        
+        
+    }
+    
+    
+    .collapse{
+        margin-left: 100px;
+        
+    
+       
+        
+    }
+    
+    .carousel-inner{
+        height: 500px;
+        
+        
+    }
+    .nav-item{
+        margin-inline: 30px;
+    }
+    
+    
+        
+
