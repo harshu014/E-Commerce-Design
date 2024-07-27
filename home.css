@@ -1,0 +1,236 @@
+.container-fluid{
+    
+    color: white;
+    background-color: rgb(113, 33, 33);
+    
+}
+
+
+.collapse{
+    margin-left: 100px;
+    
+
+   
+    
+}
+
+.carousel-inner{
+    height: 500px;
+    
+    
+}
+.nav-item{
+    margin-inline: 25px;
+    color: white;
+}
+
+.shop_by_category{
+   
+    margin-left: -300px;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.shopBy{
+    height: 100px;
+}
+.box{
+    height: 300px;
+    width: 350px;
+    border-style: none;
+    border-radius: 25px;
+    margin-inline: 70px;
+    margin-top: 60px;
+    background-image: url('/best-laptops-2.jpg');
+    background-position: center;
+    background-size: 600px;
+    
+}
+.box1{
+    height: 300px;
+    width: 350px;
+    border-style: none;
+    border-radius: 25px;
+    margin-inline: 70px;
+    margin-top: 60px;
+    background-image: url('/cover-tech-sixteen_nine.avif');
+    background-position: center;
+    background-size: cover;
+    
+}
+.box2{
+    height: 300px;
+    width: 350px;
+    border-style: none;
+    border-radius: 25px;
+    margin-inline: 70px;
+    margin-top: 60px;
+    background-image: url('/maxresdefault.jpg');
+    background-position: center;
+    background-size: cover;
+    
+}
+.box-latpro {
+    height: 300px;
+    width: 350px;
+    border-style: none;
+    border-radius: 25px;
+    margin-inline: 70px;
+    margin-top: 60px;
+    background-image: url('/phone\ 2.jpg');
+    background-position: center;
+    background-size: cover;
+    
+}
+.box-latpro1 {
+    height: 300px;
+    width: 350px;
+    border-style: none;
+    border-radius: 25px;
+    margin-inline: 70px;
+    margin-top: 60px;
+    background-image: url('/LunarCall_1_800x.webp');
+    background-position: center;
+    background-size: cover;
+    
+}
+.box-latpro2 {
+    height: 300px;
+    width: 350px;
+    border-style: none;
+    border-radius: 25px;
+    margin-inline: 70px;
+    margin-top: 60px;
+    background-image: url('/oneplus.webp');
+    background-position: center;
+    background-size: cover;
+    
+}
+.ulll{
+    text-decoration: underline;
+
+}
+.blu{
+    background-color: rgb(32, 42, 58);
+    color: white;
+    
+    box-shadow: 0px 5px 10px 10px rgb(129, 35, 35);
+    width: 1300px;
+    align-items: center;
+    margin-left: 100px;
+}
+.backtop{
+    scroll-behavior: smooth;
+}
+.mybox{
+    height: fit-content;
+    width: fit-content;
+    border-style: groove;
+    align-items: center;
+   
+}
+/* 
+form css */
+
+
+.container{
+    width: 85%;
+    background: #53d6ed;
+    border-radius: 6px;
+    padding: 20px 60px 30px 40px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  }
+  .container .content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .container .content .left-side{
+    width: 25%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    position: relative;
+  }
+  .content .left-side::before{
+    content: '';
+    position: absolute;
+    height: 70%;
+    width: 2px;
+    right: -15px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #000000;
+  }
+  .content .left-side .details{
+    margin: 14px;
+    text-align: center;
+  }
+  .content .left-side .details i{
+    font-size: 30px;
+    color: #3e2093;
+    margin-bottom: 10px;
+  }
+  .content .left-side .details .topic{
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .content .left-side .details .text-one,
+  .content .left-side .details .text-two{
+    font-size: 14px;
+    color: #0f0f0f;
+  }
+  .container .content .right-side{
+    width: 75%;
+    margin-left: 75px;
+  }
+  .content .right-side .topic-text{
+    font-size: 23px;
+    font-weight: 600;
+    color: #3e2093;
+  }
+  .right-side .input-box{
+    height: 50px;
+    width: 100%;
+    margin: 12px 0;
+  }
+  .right-side .input-box input,
+  .right-side .input-box textarea{
+    height: 100%;
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    background: #F0F1F8;
+    border-radius: 6px;
+    padding: 0 15px;
+    resize: none;
+  }
+  .right-side .message-box{
+    min-height: 110px;
+  }
+  .right-side .input-box textarea{
+    padding-top: 6px;
+  }
+  .right-side .button{
+    display: inline-block;
+    margin-top: 12px;
+  }
+  .right-side .button input[type="button"]{
+    color: #fff;
+    font-size: 18px;
+    outline: none;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    background: #3e2093;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  .button input[type="button"]:hover{
+    background: #5029bc;
+  }
