@@ -1,4 +1,4 @@
-.container-fluid{
+    .container-fluid{
     
     color: white;
     background-color: rgb(113, 33, 33);
@@ -234,3 +234,32 @@ form css */
   .button input[type="button"]:hover{
     background: #5029bc;
   }
+
+  @media only screen and (max-width: 600px){
+    body{
+      width: 70vh;
+    }
+    .blu{
+      width: 400px;
+      margin-left: 40px;
+     
+    }
+    .mb-2{
+      font-size: 30px;
+      text-align: center;
+      margin-right: 80px ;
+    }
+    .list-group-item{
+      font-size: 23px;
+      font-weight: bold;
+    }
+    .imgii{
+      width: 300px;
+      margin-right: 1500px;
+    }
+    .container1{
+      
+    }
+    
+  }
+
