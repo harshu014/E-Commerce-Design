@@ -117,6 +117,19 @@
     .nav-item{
         margin-inline: 30px;
     }
+    .prod123{
+        height: 300px;
+        width: 380px;
+        margin-left: -100px;
+    }
+    .relt{
+        width: 300px;
+       text-align: center;
+    }
+    .headi{
+        margin-left: -150px;
+        width: 450px;
+    }
     
     
         
