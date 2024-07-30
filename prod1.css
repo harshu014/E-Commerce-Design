@@ -1,7 +1,5 @@
 .container{
   display:flex;
-  
-  
 }
 .container1{
     display: flex;
@@ -118,6 +116,16 @@
         margin-inline: 30px;
     }
     .prod123{
+        height: 600px;
+        width: 600px;
+       
+    }
+    
+
+    @media screen and (max-width: 600px) {
+        
+    
+    .prod123{
         height: 300px;
         width: 380px;
         margin-left: -100px;
@@ -130,6 +138,73 @@
         margin-left: -150px;
         width: 450px;
     }
+    .container01{
+        display: inline;
+    }
+    .lunar{
+        height: 350px;
+        width: 300px;
+        margin-left: -100px;
+    }
+    .lunar1{
+        height: 400px;
+        width: 350px;
+        margin-left: -100px;}
+
+
+    .wid{
+        width: 400px;
+        margin-left: -80px;
+       
+    }
+    .contw{
+        width: 300px;
+    }
+    .box{
+        height: 250px;
+        width: 250px;
+        border-style: none;
+        border-radius: 25px;
+        margin-inline: 70px;
+        margin-top: 30px;
+        background-image: url("/LunarCall_1_800x.webp");
+        
+        background-size: 250px;
+        background-repeat: no-repeat;
+    }
+    .box1{
+        height: 250px;
+        width: 250px;
+        border-style: none;
+        border-radius: 25px;
+        margin-inline: 70px;
+        margin-top: 130px;
+        
+        background-image: url("/71Q8czKqSIL._AC_UF1000\,1000_QL80_.jpg");
+        background-size: 250px;
+        background-repeat: no-repeat;
+    }
+    .box3{
+        height: 250px;
+        width: 250px;
+        border-style: none;
+        border-radius: 25px;
+        margin-inline: 70px;
+        margin-top: 130px;
+        background-image: url("/64ccb2559d908f42222b598a-hp-pavilion-13-3-fhd-intel-core-i3.jpg");
+        
+        background-size: 300px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .btn{
+        margin-top: 260px;
+    }
+    
+   
+}
+
+
     
     
         
